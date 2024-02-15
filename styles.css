@@ -55,7 +55,24 @@ textarea {
     cursor: pointer;
 }
 
+
 .button-container button:hover {
     background-color: lightblue;
     outline: 2px solid black; /* Add outline when hovering */
+}
+
+.button-container button:active {
+    background-color: rgb(98, 202, 237);
+}
+
+#save-text-file {
+    background-color: darkgrey;
+}
+
+#save-text-file:hover {
+    background-color: rgb(123, 122, 122);
+}
+
+#save-text-file:active {
+    background-color: rgb(96, 95, 95);
 }

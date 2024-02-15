@@ -5,7 +5,7 @@ You can find the original project description and tasks on [Hyperskill](https://
 
 Check out my hyperskill profile: https://hyperskill.org/profile/604344431
 
-<img src="https://github.com/Joel-Cornfield/CaseConverter/blob/main/screenshot.png">
+<img src="">
 
 # Features #
 * Convert text to upper case, lower case, proper case, or sentence case
